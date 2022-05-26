@@ -1,4 +1,3 @@
-import "./App.css";
 import Homepage from "./components/Homepage";
 import RegisterComponent from "./components/RegisterComponent.jsx";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
