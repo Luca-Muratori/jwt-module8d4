@@ -21,14 +21,8 @@ const RegisterComponent = () => {
         <Form.Control type="text" placeholder="Insert surname" />
       </Form.Group>
       <Form.Group>
-        <Form.Control type="text" label="Check me out" />
-      </Form.Group>
-      <Form.Group>
         <p>date of birth</p>
         <Form.Control type="date" />
-      </Form.Group>
-      <Form.Group>
-        <Form.Control type="text" placeholder="password" />
       </Form.Group>
       <Button variant="primary" type="submit">
         Submit
